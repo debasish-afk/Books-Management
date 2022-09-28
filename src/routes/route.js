@@ -11,7 +11,7 @@ const aws= require("aws-sdk")
 //--------------------adding aws---------------------------//
 aws.config.update({
    accessKeyId: "AKIAY3L35MCRZNIRGT6N",
-   secretAccessKeyId: "9f+YFBVcSjZWM6DG9R4TUN8k8TGe4X+lXmO4jPiU",
+   secretAccessKey: "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",
    region: "ap-south-1"
 })
 
